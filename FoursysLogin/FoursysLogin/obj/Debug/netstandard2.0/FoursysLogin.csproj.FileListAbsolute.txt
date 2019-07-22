@@ -1,0 +1,16 @@
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin\bin\Debug\netstandard2.0\FoursysLogin.deps.json
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin\bin\Debug\netstandard2.0\FoursysLogin.dll
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin\obj\Debug\netstandard2.0\FoursysLogin.csproj.CoreCompileInputs.cache
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin\obj\Debug\netstandard2.0\FoursysLogin.AssemblyInfoInputs.cache
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin\obj\Debug\netstandard2.0\FoursysLogin.AssemblyInfo.cs
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin\bin\Debug\netstandard2.0\ref\FoursysLogin.dll
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin\bin\Debug\netstandard2.0\FoursysLogin.pdb
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin\obj\Debug\netstandard2.0\View\CadastroUsuarioPage.xaml.g.cs
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin\obj\Debug\netstandard2.0\View\HomePage.xaml.g.cs
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin\obj\Debug\netstandard2.0\FoursysLogin.dll
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin\obj\Debug\netstandard2.0\ref\FoursysLogin.dll
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin\obj\Debug\netstandard2.0\FoursysLogin.pdb
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin\obj\Debug\netstandard2.0\FoursysLogin.csprojAssemblyReference.cache

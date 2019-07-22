@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="FoursysLogin.View.CadastroUsuarioPage"
+             BackgroundImageSource="AZUL.png">
+    <ContentPage.Content>
+        <StackLayout Margin="20,20,20,20">
+            
+        <StackLayout Margin="0,20,0,0">
+            <Label
+                Text="CADASTRO DE USUÁRIO"
+                TextColor="Orange"
+                FontSize="Large"
+                TextDecorations="Underline"
+                FontAttributes="Bold"
+                VerticalTextAlignment="Center"
+                VerticalOptions="FillAndExpand"
+                HorizontalTextAlignment="Center"
+                HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" Margin="0,40,0,40">
+                    <Label
+                        Text="Login: "
+                        TextColor="Orange" 
+                        FontSize="Medium"
+                        VerticalOptions="FillAndExpand"
+                        VerticalTextAlignment="Center"
+                    />
+                    <Entry
+                        Placeholder="Digite aqui"
+                        PlaceholderColor="Gainsboro"
+                        VerticalOptions="FillAndExpand"
+                        HorizontalOptions="FillAndExpand"                        
+                    />
+                </StackLayout>
+           
+                <StackLayout Orientation="Horizontal">
+                    <Label
+                        Text="Senha: "
+                        TextColor="Orange" 
+                        FontSize="Medium"
+                        VerticalOptions="FillAndExpand"
+                        VerticalTextAlignment="Center"
+                    />
+                    <Entry
+                        Placeholder="Digite aqui"
+                        PlaceholderColor="Gainsboro"
+                        VerticalOptions="FillAndExpand"
+                        HorizontalOptions="FillAndExpand"
+                    />
+                </StackLayout>
+
+                <StackLayout VerticalOptions="EndAndExpand">
+                    <Button
+                        Text="CADASTRAR" 
+                        FontAttributes="Bold"
+                        TextColor="Black"
+                        FontSize="Medium"
+                        VerticalOptions="FillAndExpand"
+                        HorizontalOptions="FillAndExpand"                
+                        BorderColor="White"
+                        BorderWidth="1"
+                        CornerRadius="7"/>
+                </StackLayout>  
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
