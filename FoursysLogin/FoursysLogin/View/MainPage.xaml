@@ -7,69 +7,58 @@
              x:Class="FoursysLogin.View.MainPage"
              BackgroundImageSource="foursys.png">
 
-    <ScrollView
-        VerticalOptions="FillAndExpand"
-        HorizontalOptions="FillAndExpand"
-        Margin="20,250,20,50">
-        
-        <StackLayout>
-            
-        <StackLayout Margin="00,0,0,10">
-            <Entry
-                Placeholder="Login"
-                PlaceholderColor="White"
-                BackgroundColor="Transparent"
-                TextColor="White"
-                VerticalOptions="FillAndExpand"
-                HorizontalOptions="FillAndExpand"
-                HorizontalTextAlignment="Start"
-                FontSize="Medium"
-                x:Name="login"/>
-        </StackLayout>
 
-        <StackLayout>
-            <Entry
-                Placeholder="Senha"
-                PlaceholderColor="White"                
-                BackgroundColor="Transparent"
-                TextColor="White"
-                VerticalOptions="FillAndExpand"
-                HorizontalOptions="FillAndExpand"
-                HorizontalTextAlignment="Start"
-                FontSize="Medium"
-                IsPassword="True"
-                x:Name="senha"/>
-        </StackLayout>
+    <StackLayout Spacing="0" Margin="20" VerticalOptions="FillAndExpand">
 
-        <StackLayout Margin="0,30,0,0">
-            <Button
-                Text="ENTRAR"
-                BackgroundColor="Transparent"
-                TextColor="White"
-                VerticalOptions="FillAndExpand"
-                HorizontalOptions="FillAndExpand"
-                Clicked="ENTRARAsync"
-                FontSize="Medium"
-                BorderColor="White"
-                BorderWidth="1"
-                CornerRadius="7"/>
-        </StackLayout>
+            <StackLayout VerticalOptions="CenterAndExpand" >
+                <Entry
+                    Margin="0,50,0,0"
+                    Placeholder="Login"
+                    PlaceholderColor="White"
+                    BackgroundColor="Transparent"
+                    TextColor="White"
+                    HorizontalOptions="FillAndExpand"
+                    HorizontalTextAlignment="Start"
+                    FontSize="Medium"
+                    x:Name="login"/>
 
-            <StackLayout Margin="0,20,0,0">
+                <Entry
+                    Placeholder="Senha"
+                    PlaceholderColor="White"                
+                    BackgroundColor="Transparent"
+                    TextColor="White"
+                    HorizontalOptions="FillAndExpand"
+                    HorizontalTextAlignment="Start"
+                    FontSize="Medium"
+                    IsPassword="True"
+                    x:Name="senha"/>
+
                 <Button
-                Text="PRIMEIRO ACESSO"
-                BackgroundColor="Transparent"
-                TextColor="White"
-                VerticalOptions="FillAndExpand"
-                HorizontalOptions="FillAndExpand"
-                Clicked="PRIMEIRO"
-                FontSize="Medium"
-                BorderColor="White"
-                BorderWidth="1"
-                CornerRadius="7"/>
+                    Margin="0,15,0,0"
+                    Text="ENTRAR"
+                    BackgroundColor="Transparent"
+                    TextColor="White"
+                    HorizontalOptions="FillAndExpand"
+                    Clicked="ENTRARAsync"
+                    FontSize="Medium"
+                    BorderColor="White"
+                    BorderWidth="1"
+                    CornerRadius="7"/>
+
+                <Button
+                    Margin="0,15,0,0"
+                    Text="PRIMEIRO ACESSO"
+                    BackgroundColor="Transparent"
+                    TextColor="White"
+                    HorizontalOptions="FillAndExpand"
+                    Clicked="PRIMEIRO"
+                    FontSize="Medium"
+                    BorderColor="White"
+                    BorderWidth="1"
+                    CornerRadius="7"/>
+                
             </StackLayout>
-            
-        </StackLayout>
-    </ScrollView>
+
+    </StackLayout>
 
 </ContentPage>

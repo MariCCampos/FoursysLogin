@@ -32,6 +32,7 @@
                     />
                     <Entry
                         Placeholder="Digite aqui"
+                        TextColor="Gainsboro"
                         PlaceholderColor="Gainsboro"
                         VerticalOptions="FillAndExpand"
                         HorizontalOptions="FillAndExpand" 
@@ -49,6 +50,7 @@
                     />
                     <Entry
                         Placeholder="Digite aqui"
+                        TextColor="Gainsboro"
                         PlaceholderColor="Gainsboro"
                         VerticalOptions="FillAndExpand"
                         HorizontalOptions="FillAndExpand"
@@ -58,9 +60,10 @@
 
                 <StackLayout VerticalOptions="EndAndExpand">
                     <Button
-                        Text="CADASTRAR" 
+                        Text="CADASTRAR"
                         FontAttributes="Bold"
-                        TextColor="Black"
+                        BackgroundColor="Transparent"
+                        TextColor="White"
                         FontSize="Medium"
                         VerticalOptions="FillAndExpand"
                         HorizontalOptions="FillAndExpand"                
