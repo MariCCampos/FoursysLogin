@@ -15,7 +15,7 @@ namespace FoursysLogin.View
         public Login Login { get; set; }
         public HomePage(Login usuarioModel)
         {
-            NavigationPage.SetHasNavigationBar(this, false);
+            NavigationPage.SetHasNavigationBar(this,true);
             InitializeComponent();
             this.Login = usuarioModel;
             this.BindingContext = this;

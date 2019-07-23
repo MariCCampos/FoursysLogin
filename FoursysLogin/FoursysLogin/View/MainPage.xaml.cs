@@ -10,7 +10,7 @@ namespace FoursysLogin.View
 {
     public partial class MainPage : ContentPage
     {
-        public static string url = "http://192.168.125.177:3000/api/login/v1";
+        public static string url = "http://192.168.125.177:3000/api/login/v1/consultalogin";
 
         public Login usuarioModel;
         
@@ -63,7 +63,7 @@ namespace FoursysLogin.View
             }
             catch (Exception ex)
             {
-                throw ex;                
+                Console.WriteLine("Exception: " + ex.Message);
             };
             return false;
         }

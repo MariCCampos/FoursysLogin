@@ -59,6 +59,7 @@ C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\D
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\res\drawable\foursys.png
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\res\drawable\azul.png
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\R.cs.flag
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\R.txt
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\uploadflags.txt
@@ -324,10 +325,10 @@ C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\D
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\android\support\transition\R.java
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
-C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\md5c77fb9cbf6b9c945525e9c39dee9fbcf\MainActivity.java
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\android\support\design\R.java
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\md5c77fb9cbf6b9c945525e9c39dee9fbcf\MainActivity.java
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ButtonRenderer.java
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\CarouselPageRenderer.java
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FormsFragmentPagerAdapter_1.java
@@ -348,6 +349,7 @@ C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\D
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\TabbedPageRenderer.java
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ViewRenderer_2.java
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\android\support\compat\R.java
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActionSheetRenderer.java
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActivityIndicatorRenderer.java
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\AHorizontalScrollView.java
@@ -490,7 +492,6 @@ C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\D
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementTracker_AttachTracker.java
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer.java
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer_JavascriptResult.java
-C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\android\support\compat\R.java
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
@@ -578,4 +579,3 @@ C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\D
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\mccampos\Documents\FoursysLogin\FoursysLogin\FoursysLogin.Android\obj\Debug\90\res\drawable\azul.png

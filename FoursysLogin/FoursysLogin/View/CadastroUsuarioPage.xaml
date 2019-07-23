@@ -34,7 +34,8 @@
                         Placeholder="Digite aqui"
                         PlaceholderColor="Gainsboro"
                         VerticalOptions="FillAndExpand"
-                        HorizontalOptions="FillAndExpand"                        
+                        HorizontalOptions="FillAndExpand" 
+                        x:Name="login"
                     />
                 </StackLayout>
            
@@ -51,6 +52,7 @@
                         PlaceholderColor="Gainsboro"
                         VerticalOptions="FillAndExpand"
                         HorizontalOptions="FillAndExpand"
+                        x:Name="senha"
                     />
                 </StackLayout>
 
@@ -64,7 +66,8 @@
                         HorizontalOptions="FillAndExpand"                
                         BorderColor="White"
                         BorderWidth="1"
-                        CornerRadius="7"/>
+                        CornerRadius="7"                        
+                        Clicked="CADASTROAsync"/>
                 </StackLayout>  
 
         </StackLayout>
