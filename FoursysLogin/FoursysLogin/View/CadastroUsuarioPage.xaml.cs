@@ -57,7 +57,7 @@ namespace FoursysLogin.View
             }
             catch (Exception ex)
             {
-                throw ex;
+                Console.WriteLine("Exception: " + ex.Message);
             };
             return false;
         }
